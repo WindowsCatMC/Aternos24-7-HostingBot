@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "NotLidlBot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "NotLidlBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "VRCity.aternos.me",
+    "port": 27889,
     "version": "",
     "try-creative": false
   },
